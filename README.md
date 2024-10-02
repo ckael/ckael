@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riantsoa Ckael</h1>
+<h1 align="center">Hi 👋, I'm Riantsoa Ckaël</h1>
 <h3 align="center">I'm a developer from Madagascar</h3>
 
 - 📫 How to reach me **RanCkael6@gmail.com**
